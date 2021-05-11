@@ -227,7 +227,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -287,12 +287,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
